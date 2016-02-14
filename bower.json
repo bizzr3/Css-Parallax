@@ -1,0 +1,22 @@
+{
+  "name": "Mouschti.me",
+  "description": "Mouschti Personal End point",
+  "main": "Mouschti.me.js",
+  "authors": [
+    "bizzr3 <mojtaba.bakhtiaree@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Mouschti",
+    "blog",
+    "personal",
+    "endpoint"
+  ],
+  "homepage": "http://mouschti.me",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
